@@ -1,0 +1,10 @@
+node_modules/
+.expo/
+dist/
+web-build/
+backend/data/
+.env
+*.log
+
+# Arquivo de entrega gerado (não versionar)
+*.zip
